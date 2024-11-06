@@ -22,11 +22,6 @@
 <br/>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.habits.charts.svg" style="max-width: 100%;" width="100%"></a>
 
-<div>      <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.achievements.compact.svg" style="max-width: 100%;" width="100%"></a></details>
-        <details><summary>Detailed display</summary><a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.achievements.svg" style="max-width: 100%;" width="100%"></a></details>
-        <a target="_blank" rel="noopener noreferrer" href=""><img alt="" style="max-width: 100%;" width="100%" height="1"></a> 
-        </div>
-
 
 <!-- ![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan) -->
 
