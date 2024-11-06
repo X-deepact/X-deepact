@@ -20,8 +20,7 @@
 
 <br/>
 <br/>
-        <a target="_blank" rel="noopener noreferrer" href="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.habits.charts.svg"><img alt="" src="https://github.com/lowlighter/metrics/raw/examples/metrics.plugin.habits.charts.svg" style="max-width: 100%;" width="100%"></a>
-
+     
 
 <!-- ![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan) -->
 
