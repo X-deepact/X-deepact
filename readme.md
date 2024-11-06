@@ -16,5 +16,5 @@
 
 <!-- ![hyochan github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=hyochan) -->
 
-![hyochan github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan)
+<!-- ![hyochan github-trophies](https://stats.dooboo.io/api/github-trophies?login=hyochan) -->
 
